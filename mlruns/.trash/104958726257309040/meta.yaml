@@ -1,0 +1,7 @@
+artifact_location: file:///E:/Mlops/mlruns/104958726257309040
+creation_time: 1745504321788
+experiment_id: '104958726257309040'
+last_update_time: 1745504694257
+lifecycle_stage: deleted
+name: Telco_Churn_RF
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/e089c77a6d454211af961d2ef8a2f8e3/artifacts
+end_time: 1745505997437
+entry_point_name: ''
+experiment_id: '694330000616348606'
+lifecycle_stage: active
+run_id: e089c77a6d454211af961d2ef8a2f8e3
+run_name: RandomForest_n_estimators=100_max_depth=10_class_weight=balanced
+run_uuid: e089c77a6d454211af961d2ef8a2f8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745505975314
+status: 3
+tags: []
+user_id: ahmet

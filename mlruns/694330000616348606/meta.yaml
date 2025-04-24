@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Mlops/mlruns/694330000616348606
+creation_time: 1745505931109
+experiment_id: '694330000616348606'
+last_update_time: 1745505931109
+lifecycle_stage: active
+name: TelcoChurn_MultiModel_ParamSearch

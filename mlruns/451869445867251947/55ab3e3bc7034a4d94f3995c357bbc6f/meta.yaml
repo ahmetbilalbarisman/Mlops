@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/451869445867251947/55ab3e3bc7034a4d94f3995c357bbc6f/artifacts
+end_time: 1745505119740
+entry_point_name: ''
+experiment_id: '451869445867251947'
+lifecycle_stage: active
+run_id: 55ab3e3bc7034a4d94f3995c357bbc6f
+run_name: LogisticRegression_C=0.1_penalty=l2_class_weight=balanced_solver=liblinear_max_iter=500
+run_uuid: 55ab3e3bc7034a4d94f3995c357bbc6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745505115082
+status: 3
+tags: []
+user_id: ahmet

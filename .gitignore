@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+mlflow_env/
+
+# IDE files
+.vscode/
+.idea/
+
+
+
+# Data files
+*.xlsx
+*.tsv
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Pip environment files
+*.egg-info/
+dist/
+build/

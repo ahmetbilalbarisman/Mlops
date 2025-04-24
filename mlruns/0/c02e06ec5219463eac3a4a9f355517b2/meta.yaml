@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/0/c02e06ec5219463eac3a4a9f355517b2/artifacts
+end_time: 1745504158788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c02e06ec5219463eac3a4a9f355517b2
+run_name: enchanting-cod-369
+run_uuid: c02e06ec5219463eac3a4a9f355517b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745504137879
+status: 3
+tags: []
+user_id: ahmet

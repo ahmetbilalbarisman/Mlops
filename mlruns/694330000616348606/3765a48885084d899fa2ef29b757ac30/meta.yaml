@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/3765a48885084d899fa2ef29b757ac30/artifacts
+end_time: 1745506201713
+entry_point_name: ''
+experiment_id: '694330000616348606'
+lifecycle_stage: active
+run_id: 3765a48885084d899fa2ef29b757ac30
+run_name: LightGBM_n_estimators=100_max_depth=5_learning_rate=0.1_boosting_type=gbdt
+run_uuid: 3765a48885084d899fa2ef29b757ac30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745506181441
+status: 3
+tags: []
+user_id: ahmet

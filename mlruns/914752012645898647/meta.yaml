@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Mlops/mlruns/914752012645898647
+creation_time: 1745504440143
+experiment_id: '914752012645898647'
+last_update_time: 1745504440143
+lifecycle_stage: active
+name: Telco_Churn_RF_Tuning

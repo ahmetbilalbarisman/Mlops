@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Mlops/mlruns/451869445867251947
+creation_time: 1745505051626
+experiment_id: '451869445867251947'
+last_update_time: 1745505051626
+lifecycle_stage: active
+name: Telco_Churn_MultiModel_Tuning

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/914752012645898647/77eefa9c41b9406783eb13d8cae1adda/artifacts
+end_time: 1745504469906
+entry_point_name: ''
+experiment_id: '914752012645898647'
+lifecycle_stage: active
+run_id: 77eefa9c41b9406783eb13d8cae1adda
+run_name: RF_100trees_depth10
+run_uuid: 77eefa9c41b9406783eb13d8cae1adda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745504464889
+status: 3
+tags: []
+user_id: ahmet

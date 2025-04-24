@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Mlops/mlruns/289598784619520635
+creation_time: 1745505510961
+experiment_id: '289598784619520635'
+last_update_time: 1745505510961
+lifecycle_stage: active
+name: TelcoChurn_Ensemble_Comparison
