@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/5c5ee83614e140eeaf0df57b671acca1/artifacts
+end_time: 1746099256974
+entry_point_name: ''
+experiment_id: '694330000616348606'
+lifecycle_stage: active
+run_id: 5c5ee83614e140eeaf0df57b671acca1
+run_name: XGBoost_n_estimators=100_max_depth=10_learning_rate=0.1_eval_metric=logloss_use_label_encoder=False
+run_uuid: 5c5ee83614e140eeaf0df57b671acca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746099227508
+status: 3
+tags: []
+user_id: ahmet

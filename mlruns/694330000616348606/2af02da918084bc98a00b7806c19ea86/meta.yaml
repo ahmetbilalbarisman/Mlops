@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/2af02da918084bc98a00b7806c19ea86/artifacts
+end_time: 1746100579154
+entry_point_name: ''
+experiment_id: '694330000616348606'
+lifecycle_stage: active
+run_id: 2af02da918084bc98a00b7806c19ea86
+run_name: VotingClassifier_ensemble
+run_uuid: 2af02da918084bc98a00b7806c19ea86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746100556740
+status: 3
+tags: []
+user_id: ahmet

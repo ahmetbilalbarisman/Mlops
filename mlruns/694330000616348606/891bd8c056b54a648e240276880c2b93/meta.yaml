@@ -1,8 +1,9 @@
 artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/891bd8c056b54a648e240276880c2b93/artifacts
+deleted_time: 1746099567709
 end_time: 1745506128552
 entry_point_name: ''
 experiment_id: '694330000616348606'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 891bd8c056b54a648e240276880c2b93
 run_name: LogisticRegression_C=1.0_penalty=l2_class_weight=balanced_solver=liblinear_max_iter=500
 run_uuid: 891bd8c056b54a648e240276880c2b93

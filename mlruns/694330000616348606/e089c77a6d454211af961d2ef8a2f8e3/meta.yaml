@@ -1,8 +1,9 @@
 artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/e089c77a6d454211af961d2ef8a2f8e3/artifacts
+deleted_time: 1746099567718
 end_time: 1745505997437
 entry_point_name: ''
 experiment_id: '694330000616348606'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e089c77a6d454211af961d2ef8a2f8e3
 run_name: RandomForest_n_estimators=100_max_depth=10_class_weight=balanced
 run_uuid: e089c77a6d454211af961d2ef8a2f8e3

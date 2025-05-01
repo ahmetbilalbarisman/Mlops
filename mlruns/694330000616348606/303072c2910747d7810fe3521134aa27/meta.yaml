@@ -1,8 +1,9 @@
 artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/303072c2910747d7810fe3521134aa27/artifacts
+deleted_time: 1746099567692
 end_time: 1745506181412
 entry_point_name: ''
 experiment_id: '694330000616348606'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 303072c2910747d7810fe3521134aa27
 run_name: XGBoost_n_estimators=100_max_depth=10_learning_rate=0.1_eval_metric=logloss_use_label_encoder=False
 run_uuid: 303072c2910747d7810fe3521134aa27

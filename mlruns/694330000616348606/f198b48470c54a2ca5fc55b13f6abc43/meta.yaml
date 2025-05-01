@@ -1,8 +1,9 @@
 artifact_uri: file:///E:/Mlops/mlruns/694330000616348606/f198b48470c54a2ca5fc55b13f6abc43/artifacts
+deleted_time: 1746099567685
 end_time: 1745506221894
 entry_point_name: ''
 experiment_id: '694330000616348606'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f198b48470c54a2ca5fc55b13f6abc43
 run_name: LightGBM_n_estimators=100_max_depth=10_learning_rate=0.1_boosting_type=gbdt
 run_uuid: f198b48470c54a2ca5fc55b13f6abc43

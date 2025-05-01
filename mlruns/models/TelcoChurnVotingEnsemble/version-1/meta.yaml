@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746100560267
+current_stage: Staging
+description: null
+last_updated_timestamp: 1746102835935
+name: TelcoChurnVotingEnsemble
+run_id: 2af02da918084bc98a00b7806c19ea86
+run_link: null
+source: file:///E:/Mlops/mlruns/694330000616348606/2af02da918084bc98a00b7806c19ea86/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/Mlops/mlruns/694330000616348606/2af02da918084bc98a00b7806c19ea86/artifacts/model
+user_id: null
+version: 1
